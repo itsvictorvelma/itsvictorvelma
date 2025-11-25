@@ -1,15 +1,19 @@
+<h1 align="center">Hi, I’m Victor Velma</h1>
+
 <p align="center">
-  <img src="https://github.com/itsvictorvelma.png" width="120" style="border-radius: 50%;" />
+  Python Developer · Early-Intermediate · CLI & Small Projects Enthusiast  
 </p>
 
-<h1 align="center">Hi, I’m Victor Velma 👋</h1>
-<p align="center">Python developer · Early-intermediate · CLI & small projects enthusiast</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsvictorvelma&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I’m actively learning Python, using small games and automation scripts as practical projects to build solid fundamentals and strengthen my development skills.
+I’m learning Python through hands-on projects — small games, scripts, and automation tools.  
+Everything I build helps sharpen my fundamentals and grow toward professional development work.
 
 ---
 
@@ -18,42 +22,48 @@ I’m actively learning Python, using small games and automation scripts as prac
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=pycharm&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-- Python 3.x for scripting, small applications, and command-line tools  
-- Strong grasp of functions, control flow (loops/conditionals), and core data structures  
-- Practical experience through small projects (Blackjack, Guess the Number, FizzBuzz)  
-- Familiar with file handling, input/output, and modular program structure  
-- Daily development experience on Linux environments  
+**Core Skills**
+
+- Python 3.x for scripting, small applications, and CLI tools  
+- Functions, control flow (loops/conditionals), and essential data structures  
+- Practical experience through small projects (Blackjack, Hangman, Password Generator)
+- File handling, input/output, and modular project structure  
+- Comfortable developing in Linux environments  
 
 ---
 
 ## 📂 Featured Projects
 
 | Project | Description |
-|---------|-------------|
-| 🎮 [python-playground](https://github.com/itsvictorvelma/python-playground) | Collection of small Python exercises and experimental scripts. Organized and commented for learning and showcasing. |
-| 🃏 [blackjack-capstone](https://github.com/itsvictorvelma/blackjack-capstone) | Terminal-based Blackjack game: player vs dealer logic, CLI interface, game loop, score tracking. |
+|--------|-------------|
+| 🎮 **[python-playground](https://github.com/itsvictorvelma/python-playground)** | A collection of small exercises, scripts, and learning experiments. Clean and organized. |
+| ♠️ **[blackjack-capstone](https://github.com/itsvictorvelma/blackjack-capstone)** | CLI blackjack game with dealer logic, scoring, replay loop, and card handling. |
+
+> More projects coming as I expand my skills and build larger apps.
 
 ---
 
 ## 🎯 Goals
 
-I’m working toward becoming a **full-time developer**, open but not limited to opportunities in:
+I’m working toward becoming a **full-time developer**, open to paths such as:
 
-- Backend web development  
+- Backend development  
 - DevOps  
 - Cybersecurity  
-- Any role where I can contribute, learn, and grow as a developer  
+- Any technical role where I can grow, solve problems, and build real software  
 
-I’m focused on building larger, well-structured projects, improving code readability and modularity, learning testing practices, and exploring automation and web technologies.
+Next steps:  
+Increasing project complexity, improving architecture, learning testing, and exploring automation + web dev.
 
 ---
 
 ## 📬 Connect
 
-- GitHub: **[@itsvictorvelma](https://github.com/itsvictorvelma)**
+Always open to feedback, collaboration, or chatting tech:  
+**GitHub:** [@itsvictorvelma](https://github.com/itsvictorvelma)
 
