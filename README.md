@@ -62,6 +62,5 @@ Increasing project complexity, improving architecture, learning testing, and exp
 ## 📬 Connect
 
 Always open to feedback, collaboration, or chatting tech:  
-**GitHub:** [@itsvictorvelma](https://github.com/itsvictorvelma)
 **Email** itsvictorvelma@gmail.com
-
+**Phone** 437-422-0395
