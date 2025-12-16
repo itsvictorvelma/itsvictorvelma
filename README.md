@@ -8,8 +8,7 @@
 
 ## 🚀 About Me
 
-I’m learning Python through hands-on projects - games, scripts, and automation tools.  
-Everything I build helps sharpen my fundamentals and grow toward professional development work.
+“22, learning Python - coding daily. Mostly building games and scripts right now. Slowly progressing towards building bigger and more useful projects.”
 
 ---
 
