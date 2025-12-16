@@ -37,7 +37,7 @@ Everything I build helps sharpen my fundamentals and grow toward professional de
 
 | Project | Description |
 |--------|-------------|
-| 🎮 **[python-playground](https://github.com/itsvictorvelma/python-playground)** | A collection of small exercises, scripts, and learning experiments. Clean and organized. |
+| 🎮 **[quiz_game](https://github.com/itsvictorvelma/quiz_game)** | Command-line True/False quiz built with Python OOP. |
 | ♠️ **[blackjack-capstone](https://github.com/itsvictorvelma/blackjack-capstone)** | CLI blackjack game with dealer logic, scoring, replay loop, and card handling. |
 | 🎯 **[Higher-Lower](https://github.com/itsvictorvelma/Higher-Lower)** | CLI blackjack game with dealer logic, scoring, replay loop, and card handling. |
 
