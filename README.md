@@ -38,7 +38,7 @@
 |--------|-------------|
 | 🎮 **[quiz_game](https://github.com/itsvictorvelma/quiz_game)** | Command-line True/False quiz built with Python OOP. |
 | ♠️ **[blackjack-capstone](https://github.com/itsvictorvelma/blackjack-capstone)** | CLI blackjack game with dealer logic, scoring, replay loop, and card handling. |
-| 🎯 **[Higher-Lower](https://github.com/itsvictorvelma/Higher-Lower)** | Command-line Higher-Lower game: guess which Instagram account has more followers. |
+| 🐍 **[Higher-Lower](https://github.com/itsvictorvelma/snake-game)** | Classic Snake in Python with Turtle graphics. OOP design, arrow key controls, grow and avoid collisions. |
 
 > More projects coming as I expand my skills and build larger apps.
 
