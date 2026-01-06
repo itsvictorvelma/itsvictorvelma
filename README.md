@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Victor Velma</h1>
 
 <p align="center">
-  Python Developer · Early-Intermediate · CLI & Small Projects Enthusiast  
+  Python Developer · Early-Intermediate
 </p>
 
 ---
