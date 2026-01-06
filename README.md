@@ -45,9 +45,9 @@
 
 | Project | Description |
 |--------|-------------|
-| 🎮 **[quiz_game](https://github.com/itsvictorvelma/quiz_game)** | Command-line True/False quiz built with Python OOP. |
-| ♠️ **[blackjack-capstone](https://github.com/itsvictorvelma/blackjack-capstone)** | CLI blackjack game with dealer logic, scoring, replay loop, and card handling. |
-| 🐍 **[snake-game](https://github.com/itsvictorvelma/snake-game)** | Classic Snake in Python with Turtle graphics. OOP design, arrow key controls, grow and avoid collisions. |
+| **[Pong](https://github.com/itsvictorvelma/Pong)** | Classic Pong Game Built With Python Turtle Featuring Two-Player Controls And Real-Time Ball Physics. |
+| **[Frogger](https://github.com/itsvictorvelma/Turtle-Crossing)** | Frogger-Style Arcade Game Built With Python Turtle Featuring Continuous Input, Moving Obstacles, And Level Progression. |
+| **[Snake](https://github.com/itsvictorvelma/snake-game)** | Classic Snake in Python with Turtle graphics. OOP design, arrow key controls, grow and avoid collisions. |
 
 > More projects coming as I expand my skills and build larger apps.
 
