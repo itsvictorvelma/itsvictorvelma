@@ -1,74 +1,78 @@
-<h1 align="center">Hi, I’m Victor Velma</h1>
+<h1 align="center">Victor Velma</h1>
 
 <p align="center">
-  Python Developer · Early-Intermediate
+  Python Developer — Building Practical Software
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-22, learning Python - coding daily. Mostly building games and scripts right now. Slowly progressing towards building bigger and more useful projects.
+22 years old, Primarily focused on Python.  
+Currently transitioning from learning projects into useful tooling, automation, and developer-oriented utilities.  
+Linux-first workflow. Terminal-driven development. 
 
 ---
 
-## 🛠️ Tech & Tools
+## Tech & Tools
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=pycharm&logoColor=black" />
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-**Core Skills**
-
-- Python 3.x for scripting, CLI tools, and small-to-medium applications
-
-- Strong grasp of core language fundamentals: variables, data types, control flow, functions, and common data structures
-
-- Growing proficiency with object-oriented programming: classes, encapsulation, and basic design patterns
-
-- Hands-on project experience building interactive games, including Snake and other terminal/GUI-based projects
-
-- Solid understanding of file I/O, modular code organization, and maintainable project structure
-
-- Fully Linux-based development workflow
-
-- Daily development in Neovim with increasing efficiency using Vim motions and modal editing principles
+**Currently Strong In**
+- Python 3.x for scripting, automation, and CLI tools  
+- Structuring projects cleanly and keeping code readable  
+- Linux workflow, debugging, and real-world usage rather than tutorials  
+- Iterating and improving instead of throwing projects away
 
 ---
 
-## 📂 Featured Projects
+## Featured Work
+
+### Loghound  
+Python-based Android Logcat filtering tool.
+
+- Real-time filtering by severity, tag, and keyword  
+- Cleaner and more readable output than raw logcat    
+
+Repo: https://github.com/itsvictorvelma/loghound
+
+---
+
+## Earlier Projects
 
 | Project | Description |
 |--------|-------------|
-| **[Pong](https://github.com/itsvictorvelma/Pong)** | Classic Pong Game Built With Python Turtle Featuring Two-Player Controls And Real-Time Ball Physics. |
-| **[Frogger](https://github.com/itsvictorvelma/Turtle-Crossing)** | Frogger-Style Arcade Game Built With Python Turtle Featuring Continuous Input, Moving Obstacles, And Level Progression. |
-| **[Snake](https://github.com/itsvictorvelma/snake-game)** | Classic Snake in Python with Turtle graphics. OOP design, arrow key controls, grow and avoid collisions. |
+| **[Pong](https://github.com/itsvictorvelma/Pong)** | Basic event-driven game logic and motion. |
+| **[Turtle Crossing](https://github.com/itsvictorvelma/Turtle-Crossing)** | Movement systems, collision logic, and progression loops. |
+| **[Snake](https://github.com/itsvictorvelma/snake-game)** | OOP design, game state handling, file storage for scoring. |
 
-> More projects coming as I expand my skills and build larger apps.
-
----
-
-## 🎯 Goals
-
-I’m working toward becoming a **full-time developer**, open to paths such as:
-
-- Backend development  
-- DevOps  
-- Cybersecurity  
-- Any technical role where I can grow, solve problems, and build real software  
-
-Next steps:  
-Increasing project complexity, improving architecture, learning testing, and exploring automation + web dev.
+These were foundational. The focus now is practical software and tools.
 
 ---
 
-## 📬 Connect
+## Direction
 
-Always open to feedback, collaboration, or chatting tech:  
-**Email** itsvictorvelma@gmail.com
-**Phone** 437-422-0395
+Improving depth in:
+- Backend concepts
+- Tooling
+- Debugging utilities
+- Automation
+
+Short-term goals:
+- More production-like projects  
+- Better architecture and testing  
+- Consistency and reliability in code
+
+---
+
+## Contact
+
+Feedback and genuine technical discussion welcome.
+
+**Email:** itsvictorvelma@gmail.com  
+**Location:** Canada
