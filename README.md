@@ -10,7 +10,11 @@
 
 22 years old, Primarily focused on Python.  
 Currently transitioning from learning projects into useful tooling, automation, and developer-oriented utilities.  
-Linux-first workflow. Terminal-driven development. 
+Linux first workflow. Terminal-driven development. 
+
+## What I’m Currently Working On
+
+**Password Manager** - Building a simple, secure app to store passwords, generate strong ones, and keep all my logins organized.
 
 ---
 
