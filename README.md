@@ -1,4 +1,4 @@
-python developer focused on backend systems and building tools that make life easier. currently moving from "learning the basics" to "building real infra."
+python developer focused on backend systems and building dev tools.
 
 ---
 
