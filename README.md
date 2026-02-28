@@ -14,4 +14,4 @@ python developer focused on backend systems and building dev tools.
 
 ---
 
-**reach out:** [itsvictorvelma@gmail.com](mailto:itsvictorvelma@gmail.com) | **lo
+**reach out:** [itsvictorvelma@gmail.com](mailto:itsvictorvelma@gmail.com) 
